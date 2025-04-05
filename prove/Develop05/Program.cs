@@ -206,7 +206,6 @@ class Program
     {
         GoalManager manager = new GoalManager();
         manager.LoadProgress();
-
         while (true)
         {
             Console.WriteLine("\n Eternal Quest Menu:");
